@@ -33,13 +33,11 @@ I’m an **aspiring AI and ML engineer** currently pursuing a **Bachelor of Tech
 - Leveraged fine-grained labeling without additional computational cost.  
 - [GitHub Repository](https://github.com/ANotFox/FDS-Implementation)
 
-### 🔹 **Siamese Neural Network for One-Shot Learning**
-
-  -Built a Siamese Neural Network for one-shot learning to identify whether two input images belong to the same class.
-  -Designed and trained the model using the Omniglot dataset for handwriting recognition tasks.
-  -Utilized contrastive loss and PyTorch for training and achieved promising results for one-shot classification.
-  -[GitHub Repository](https://github.com/Arnavadi19/siamese-one-shot)
-
+### 🔹 **Siamese Neural Network for One-Shot Learning**  
+- Built a Siamese Neural Network for one-shot learning to identify whether two input images belong to the same class.  
+- Designed and trained the model using the Omniglot dataset for handwriting recognition tasks.  
+- Utilized contrastive loss and PyTorch for training and achieved promising results for one-shot classification.  
+- [GitHub Repository](https://github.com/Arnavadi19/siamese-one-shot)
 ---
 ## 🏢 **Internships**
 ### 🔹 Python Intern at RMSI Cropalytics Pvt. Ltd.
