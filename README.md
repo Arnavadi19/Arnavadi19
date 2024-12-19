@@ -7,10 +7,10 @@ I’m an **aspiring AI and ML engineer** currently pursuing a **Bachelor of Tech
 ---
 
 ## 🚀 **What I Do**  
-- **Programming**: Python, C, C++, SQL  
-- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, PyTorch  
-- **Tools**: Git, Linux  
-- **Research Interests**: AI, Machine Learning, and Deep Learning  
+- **Languages**: Python, C, C++
+- **Databases**: MySQL  
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib, PyTorch, SciKit learn 
+- **Tools**: Git, Linux
 
 ---
 
@@ -31,7 +31,14 @@ I’m an **aspiring AI and ML engineer** currently pursuing a **Bachelor of Tech
 - Implemented **SVD2 and k-means clustering** for unsupervised part-of-speech tagging.  
 - Achieved over **75% accuracy** on the PennTreeBank dataset.  
 - Leveraged fine-grained labeling without additional computational cost.  
-- [GitHub Repository](https://github.com/ANotFox/FDS-Implementation)  
+- [GitHub Repository](https://github.com/ANotFox/FDS-Implementation)
+
+### 🔹 **Siamese Neural Network for One-Shot Learning**
+
+  -Built a Siamese Neural Network for one-shot learning to identify whether two input images belong to the same class.
+  -Designed and trained the model using the Omniglot dataset for handwriting recognition tasks.
+  -Utilized contrastive loss and PyTorch for training and achieved promising results for one-shot classification.
+  -[GitHub Repository](https://github.com/Arnavadi19/siamese-one-shot)
 
 ---
 ## 🏢 **Internships**
