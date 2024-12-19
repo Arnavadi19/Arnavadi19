@@ -17,26 +17,14 @@ I’m an **aspiring AI and ML engineer** currently pursuing a **Bachelor of Tech
 ## 🛠️ **Projects**  
 
 ### 🔹 **AAS CanSat 2024**  
-- Led the flight software team and programmed the Teensy microcontroller for various onboard sensors.  
-- Designed real-time communication systems with Xbee modules, achieving data transmission over 800m within 1 second.  
-- Achieved a **97.5% score in the Preliminary Design Review phase** internationally.  
 
 ### 🔹 **Chess AI**  
-- Developed an AI chess opponent using the **Minimax algorithm with alpha-beta pruning**.  
-- Integrated heuristic functions to evaluate positional and intrinsic piece values.  
-- Optimized UI responsiveness using Python’s threading module for seamless gameplay.  
 - [GitHub Repository](https://github.com/SanskarGithub07/AI_Project_MiniChess)  
 
 ### 🔹 **SVD and Clustering for Unsupervised POS Tagging**  
-- Implemented **SVD2 and k-means clustering** for unsupervised part-of-speech tagging.  
-- Achieved over **75% accuracy** on the PennTreeBank dataset.  
-- Leveraged fine-grained labeling without additional computational cost.  
 - [GitHub Repository](https://github.com/ANotFox/FDS-Implementation)
 
-### 🔹 **Siamese Neural Network for One-Shot Learning**  
-- Built a Siamese Neural Network for one-shot learning to identify whether two input images belong to the same class.  
-- Designed and trained the model using the Omniglot dataset for handwriting recognition tasks.  
-- Utilized contrastive loss and PyTorch for training and achieved promising results for one-shot classification.  
+### 🔹 **Siamese Neural Network for One-Shot Learning**   
 - [GitHub Repository](https://github.com/Arnavadi19/siamese-one-shot)
 ---
 ## 🏢 **Internships**
